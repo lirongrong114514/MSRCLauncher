@@ -13,11 +13,12 @@ public class launcherMain {
         System.out.print("请输入密码：");
         String $password = $$password.nextLine();
         if($username!="" & $password!=""){
+            String[] $user = {$username,$password};
+            return $user;
         }else {
             System.out.println("请重新输入账号和密码！");
             return getUsernameAndPassword();
         }
-        return null;
     }
     public static void main(String[] args) {
         getUsernameAndPassword();

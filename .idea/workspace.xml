@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8944d33-7709-41a6-9b0a-362ae826cf14" name="更改" comment="up to code">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MSRCLauncherClient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tast/production/MSRCLauncherClient/api.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tast/production/MSRCLauncherClient/key.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tast/production/MSRCLauncherClient/launcherMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/api.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/launcherMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/launcherMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/log.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2frKLK2hIwRByqF2b9390IUbSMR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "G:/MSRCLauncher",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.Client.executor": "Run",
+    "应用程序.launcherMain.executor": "Run",
+    "应用程序.login.executor": "Run",
+    "应用程序.start.executor": "Debug"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="launcherMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="launcherMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="start" />
+      <module name="MSRCLauncherClient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="MSRCLauncher" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="MSRCLauncher" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.start" />
+        <item itemvalue="应用程序.launcherMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\李荣荣\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="d8944d33-7709-41a6-9b0a-362ae826cf14" name="更改" comment="" />
+      <created>1714553701132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714553701132</updated>
+      <workItem from="1714553702300" duration="5047000" />
+      <workItem from="1714573554563" duration="2102000" />
+      <workItem from="1714576947713" duration="69000" />
+      <workItem from="1714577025245" duration="510000" />
+      <workItem from="1714577546963" duration="767000" />
+      <workItem from="1714608908939" duration="4761000" />
+    </task>
+    <task id="LOCAL-00001" summary="up to code">
+      <option name="closed" value="true" />
+      <created>1714575742739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714575742739</updated>
+    </task>
+    <task id="LOCAL-00002" summary="up to code">
+      <option name="closed" value="true" />
+      <created>1714576093134</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714576093134</updated>
+    </task>
+    <task id="LOCAL-00003" summary="up to code">
+      <option name="closed" value="true" />
+      <created>1714576103129</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714576103129</updated>
+    </task>
+    <task id="LOCAL-00004" summary="up to code">
+      <option name="closed" value="true" />
+      <created>1714578233852</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714578233852</updated>
+    </task>
+    <task id="LOCAL-00005" summary="up to code">
+      <option name="closed" value="true" />
+      <created>1714578250761</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714578250761</updated>
+    </task>
+    <task id="LOCAL-00006" summary="up to code">
+      <option name="closed" value="true" />
+      <created>1714630260176</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714630260176</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="up to code" />
+    <option name="LAST_COMMIT_MESSAGE" value="up to code" />
+  </component>
+</project>

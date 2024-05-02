@@ -22,16 +22,21 @@ public class api {
             return getUsernameAndPassword();
         }
     }
-    //初始化
-    public static void initClient(){
-        if(key.protocol==true){
-            if(key.login==true){
-                getUsernameAndPassword();
-            } else if (key.login==false) {
-                login();
+    //初始化客户端
+    public static boolean initClient(){
+        try{
+            if(key.protocol==true){
+                if(key.login==true){
+                    getUsernameAndPassword();
+                } else if (key.login==false) {
+                    login();
+                }
+            }else {
+                //needUserYesToprotocol();
             }
-        }else {
-            //needUserYesToprotocol();
+            return true;
+        }catch (Exception e){
+            return false;
         }
     }
     //获取时间
@@ -43,7 +48,7 @@ public class api {
     //错误方法
     public static void Error(byte errorByte){
         if(errorByte==key.IOException){
-            System.out.println("文件写入是出现了错误！");
+            System.out.println("文件写入出现了错误！");
             System.gc();
             System.exit(100);
         }else if(errorByte==key.Exception){

@@ -1,7 +1,7 @@
 /**
  * 字段储存文件
  */
-public class key {
+public class value {
     //登录状态字段
     public static boolean login = true;
     //是否同意许可协议字段

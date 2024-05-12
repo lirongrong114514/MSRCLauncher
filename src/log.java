@@ -11,7 +11,7 @@ public class log extends Thread{
                 try {
                     logfile.createNewFile();
                 } catch (IOException e) {
-                    byte errorByte = key.IOException;
+                    byte errorByte = value.IOException;
                     api.Error(errorByte);
                     return false;
                 }

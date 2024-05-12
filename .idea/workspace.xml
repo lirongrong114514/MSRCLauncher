@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8944d33-7709-41a6-9b0a-362ae826cf14" name="更改" comment="up to code">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MSRCLauncherClient.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tast/production/MSRCLauncherClient/api.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tast/production/MSRCLauncherClient/key.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tast/production/MSRCLauncherClient/launcherMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/api.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/launcherMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/launcherMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,28 +36,28 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "G:/MSRCLauncher",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true",
-    "应用程序.Client.executor": "Run",
-    "应用程序.launcherMain.executor": "Run",
-    "应用程序.login.executor": "Run",
-    "应用程序.start.executor": "Debug"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/MSRCLauncher&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.Client.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.launcherMain.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.login.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.start.executor&quot;: &quot;Debug&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="launcherMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="launcherMain" />
@@ -117,7 +108,7 @@
       <workItem from="1714576947713" duration="69000" />
       <workItem from="1714577025245" duration="510000" />
       <workItem from="1714577546963" duration="767000" />
-      <workItem from="1714608908939" duration="4761000" />
+      <workItem from="1714608908939" duration="5432000" />
     </task>
     <task id="LOCAL-00001" summary="up to code">
       <option name="closed" value="true" />

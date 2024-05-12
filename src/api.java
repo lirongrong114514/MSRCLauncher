@@ -25,10 +25,10 @@ public class api {
     //初始化客户端
     public static boolean initClient(){
         try{
-            if(key.protocol==true){
-                if(key.login==true){
+            if(value.protocol==true){
+                if(value.login==true){
                     getUsernameAndPassword();
-                } else if (key.login==false) {
+                } else if (value.login==false) {
                     login();
                 }
             }else {
@@ -47,11 +47,11 @@ public class api {
     }
     //错误方法
     public static void Error(byte errorByte){
-        if(errorByte==key.IOException){
+        if(errorByte== value.IOException){
             System.out.println("文件写入出现了错误！");
             System.gc();
             System.exit(100);
-        }else if(errorByte==key.Exception){
+        }else if(errorByte== value.Exception){
             System.out.println("出现了未知错误！");
             System.gc();
             System.exit(120);

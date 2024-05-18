@@ -1,12 +1,24 @@
+import java.io.File;
 import java.text.SimpleDateFormat;
 import java.util.Scanner;
 import java.util.Date;
-public class api {
+public class api extends mapi{
+
+    //
+    File $plugins = new File("../plugins","init.plugins");
+
 
     //登录
     public static boolean login(){
-
+        try {
+            mapi.initPlugins();
+        }catch (Exception e){
+            initPlugins();
+        }
         return false;
+    }
+    @Override
+    public void initPlugins(){
     }
     //获取用户名和密码
     public static Object getUsernameAndPassword(){
@@ -34,7 +46,7 @@ public class api {
                     login();
                 }
             }else {
-                //needUserYesToprotocol();
+                //needUserYesToProtocol();
             }
             return true;
         }catch (Exception e){

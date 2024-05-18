@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8944d33-7709-41a6-9b0a-362ae826cf14" name="更改" comment="up to code">
-      <change afterPath="$PROJECT_DIR$/src/init.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mapi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/api.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/api.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/launcherMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/launcherMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/log.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/log.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tast/production/MSRCLauncherClient/api.class" beforeDir="false" afterPath="$PROJECT_DIR$/tast/production/MSRCLauncherClient/api.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tast/production/MSRCLauncherClient/launcherMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/tast/production/MSRCLauncherClient/launcherMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tast/production/MSRCLauncherClient/log.class" beforeDir="false" afterPath="$PROJECT_DIR$/tast/production/MSRCLauncherClient/log.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/init.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTTP Request" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -61,7 +57,7 @@
     "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true",
     "应用程序.Client.executor": "Run",
-    "应用程序.launcherMain.executor": "Debug",
+    "应用程序.launcherMain.executor": "Run",
     "应用程序.log.executor": "Debug",
     "应用程序.login.executor": "Run",
     "应用程序.start.executor": "Debug"
@@ -195,41 +191,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="up to code" />
     <option name="LAST_COMMIT_MESSAGE" value="up to code" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/log.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/log.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/log.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/log.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/log.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/log.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

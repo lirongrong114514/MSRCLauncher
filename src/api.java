@@ -2,8 +2,10 @@ import java.text.SimpleDateFormat;
 import java.util.Scanner;
 import java.util.Date;
 public class api {
+
     //登录
     public static boolean login(){
+
         return false;
     }
     //获取用户名和密码
@@ -48,7 +50,7 @@ public class api {
     //错误方法
     public static void Error(byte errorByte){
         if(errorByte== value.IOException){
-            System.out.println("文件写入出现了错误！");
+            System.out.println("I/O异常！");
             System.gc();
             System.exit(100);
         }else if(errorByte== value.Exception){
@@ -57,4 +59,5 @@ public class api {
             System.exit(120);
         }
     }
+
 }

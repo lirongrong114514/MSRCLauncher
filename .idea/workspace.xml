@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8944d33-7709-41a6-9b0a-362ae826cf14" name="更改" comment="up to code">
+      <change afterPath="$PROJECT_DIR$/src/init.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/log.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/api.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/launcherMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/launcherMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/log.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tast/production/MSRCLauncherClient/api.class" beforeDir="false" afterPath="$PROJECT_DIR$/tast/production/MSRCLauncherClient/api.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tast/production/MSRCLauncherClient/launcherMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/tast/production/MSRCLauncherClient/launcherMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tast/production/MSRCLauncherClient/log.class" beforeDir="false" afterPath="$PROJECT_DIR$/tast/production/MSRCLauncherClient/log.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +24,7 @@
       <list>
         <option value="HTTP Request" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -37,31 +44,39 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/lirongrong/桌面/JavaProject/MSRCclient&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;应用程序.Client.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.launcherMain.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.login.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.start.executor&quot;: &quot;Debug&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/lirongrong/桌面/JavaProject/MSRCclient",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.Client.executor": "Run",
+    "应用程序.launcherMain.executor": "Debug",
+    "应用程序.log.executor": "Debug",
+    "应用程序.login.executor": "Run",
+    "应用程序.start.executor": "Debug"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="launcherMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="launcherMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="log" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="log" />
+      <module name="MSRCLauncherClient" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -88,6 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.log" />
         <item itemvalue="应用程序.start" />
         <item itemvalue="应用程序.launcherMain" />
       </list>
@@ -179,5 +195,41 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="up to code" />
     <option name="LAST_COMMIT_MESSAGE" value="up to code" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/log.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/log.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/log.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/log.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/log.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/log.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

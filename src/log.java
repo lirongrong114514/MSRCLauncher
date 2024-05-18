@@ -6,7 +6,8 @@ public class log extends Thread{
         try {
             //获取时间
             String $date = api.Date().split(" ")[0];
-            File logfile = new File("../MSRCLauncher/log", $date + "log.log");
+            String $$logPath = $date+"log.log";
+            File logfile = new File("./log", $$logPath);
             //判断日志文件是否存在
             if (logfile.exists()) {
             } else {

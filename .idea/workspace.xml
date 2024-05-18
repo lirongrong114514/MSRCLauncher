@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d8944d33-7709-41a6-9b0a-362ae826cf14" name="更改" comment="up to code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/log.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;G:/MSRCLauncher&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/lirongrong/桌面/JavaProject/MSRCclient&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -58,7 +59,7 @@
     &quot;应用程序.start.executor&quot;: &quot;Debug&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.launcherMain">
+  <component name="RunManager">
     <configuration name="launcherMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="launcherMain" />
       <method v="2">

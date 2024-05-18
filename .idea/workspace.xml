@@ -58,7 +58,7 @@
     &quot;应用程序.start.executor&quot;: &quot;Debug&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="应用程序.launcherMain">
     <configuration name="launcherMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="launcherMain" />
       <method v="2">
